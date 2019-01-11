@@ -246,7 +246,7 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(558, 39);
             this.label6.TabIndex = 12;
-            this.label6.Text = "David Corbelli - PowerPoint Gerator";
+            this.label6.Text = "David Corbelli - PowerPoint Generator";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
